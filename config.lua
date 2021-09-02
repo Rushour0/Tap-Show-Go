@@ -10,6 +10,8 @@ application =
 		width = 320,
 		height = 480, 
 		scale = "adaptive",
+		xAlign = "center",
+		yAlign = "center",
 		fps = 60,
 		
 		--[[

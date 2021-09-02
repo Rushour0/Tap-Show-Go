@@ -4,9 +4,6 @@
 --
 -----------------------------------------------------------------------------------------
 
--- show default status bar (iOS)
-display.setStatusBar( display.DefaultStatusBar )
-
 -- include Corona's "widget" library
 widget = require "widget"
 composer = require "composer"
